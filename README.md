@@ -1,4 +1,4 @@
-# JDC面板 Github Action 自动编译发布 适用于任何面板
+# XDD面板 Github Action 自动编译发布 适用于任何面板
 
 ## 作者@cdle
 https://github.com/cdle/jd_study
